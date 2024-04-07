@@ -1,3 +1,4 @@
+// Class
 public class Calculator 
 {   
     // Method to perform multiplication
