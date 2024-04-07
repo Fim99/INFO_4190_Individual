@@ -11,10 +11,14 @@ public class Calculator
         // New Calculator Object
         Calculator calculator = new Calculator();
         
+        // Values for multiplication calculator
         double mult_1 = 5;
         double mult_2 = 3;
 
+        // Store method result in variable
         double result_1 = calculator.multiply(mult_1, mult_2);
+
+        // Print Results
         System.out.println(mult_1 + " x " + mult_2 + " = " + result_1);
     }
 }
